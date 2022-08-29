@@ -1,0 +1,19 @@
+{
+  "name": "com.anomalousunderdog.smartformatpackage",
+  "version": "3.1.0",
+  "displayName": "SmartFormat",
+  "description": "SmartFormat 3.1.0 in a Unity Package.",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/axuno/SmartFormat/wiki",
+  "changelogUrl": "https://github.com/axuno/SmartFormat/releases/tag/v3.1.0",
+  "license": "MIT",
+  "licensesUrl": "https://github.com/axuno/SmartFormat/blob/main/LICENSE.md",
+  "keywords": [
+    "SmartFormat",
+    "Format"
+  ],
+  "author": {
+    "name": "Anomlous Underdog"
+  },
+  "type": "library"
+}
