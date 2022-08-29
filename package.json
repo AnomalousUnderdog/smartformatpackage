@@ -15,5 +15,8 @@
   "author": {
     "name": "Anomlous Underdog"
   },
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.0.2"
+  },
   "type": "library"
 }
